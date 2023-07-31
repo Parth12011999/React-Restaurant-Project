@@ -1,0 +1,235 @@
+{
+  "user": [
+    {
+      "id": "1686637607673",
+      "name": "Princeholic",
+      "email": "holic@gmail.com",
+      "mobile": "01234567891",
+      "password": "123",
+      "status": "unblock"
+    },
+    {
+      "id": "1686831308750",
+      "name": "Khushi",
+      "email": "khushi@gmail.com",
+      "mobile": "02255446688",
+      "password": "123",
+      "status": "unblock"
+    },
+    {
+      "id": "1686833109466",
+      "name": "Kunal",
+      "email": "kunal@gmail.com",
+      "mobile": "01233448899",
+      "password": "123",
+      "status": "unblock"
+    }
+  ],
+  "contact": [
+    {
+      "id": "1683554555379",
+      "name": "Parth S",
+      "email": "renukashinde1974@gmail.com",
+      "subject": "hi",
+      "message": "hello"
+    },
+    {
+      "id": "1683692150859",
+      "name": "saurabh",
+      "email": "saurabh@gmail.com",
+      "subject": "hello",
+      "message": "hiiii"
+    },
+    {
+      "id": "1684910724473",
+      "name": "parth shinde",
+      "email": "parth30@gmail.com",
+      "subject": "nasjdhasghd",
+      "message": "asdjhasd"
+    },
+    {
+      "id": "1685079577004",
+      "name": "Aman",
+      "email": "aman@gmail.com",
+      "subject": "Nice website",
+      "message": "sdvasgfdghasfdghasfd"
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "1683870798218",
+      "name": "Parth",
+      "email": "neon@gmail.com",
+      "username": "Neon",
+      "password": "",
+      "terms": ""
+    },
+    {
+      "id": "1683872728767",
+      "name": "Kunal Patel",
+      "email": "kunal@gmail.com",
+      "username": "Kunal",
+      "password": "1234",
+      "terms": ""
+    },
+    {
+      "id": "1683874772968",
+      "name": "Saurabh Pandya",
+      "email": "saurabh@gmail.com",
+      "username": "Saurabh",
+      "password": "3322",
+      "terms": ""
+    },
+    {
+      "id": "1685171087498",
+      "name": "Prince",
+      "email": "parthshinde30@gmail.com",
+      "username": "Princeholic",
+      "password": "123",
+      "terms": ""
+    }
+  ],
+  "bookings": [
+    {
+      "id": "1683605048100",
+      "name": "PArth Shidne",
+      "email": "parthshinde30@gmail",
+      "datetime": "2023-05-13T00:33",
+      "people": "3",
+      "message": "clean"
+    },
+    {
+      "id": "1683605124885",
+      "name": "Kunal",
+      "email": "kunal@gmail.com",
+      "datetime": "2023-05-04T09:34",
+      "people": "2",
+      "message": "window table"
+    },
+    {
+      "id": "1683605933383",
+      "name": "parth shinde",
+      "email": "parth30@gmail.com",
+      "datetime": "2023-06-08T09:51",
+      "people": "2",
+      "message": "hello"
+    },
+    {
+      "id": "1683606079357",
+      "name": "asdd sadas",
+      "email": "parthshinde30@gmail.com",
+      "datetime": "2023-05-12T01:52",
+      "people": "3",
+      "message": "heaskjdas"
+    }
+  ],
+  "product": [
+    {
+      "id": "808",
+      "image": "https://th.bing.com/th/id/OIP.nT0_j2wdtNdnuyFMbgSv5QHaIx?pid=ImgDet&rs=1",
+      "name": "food 1",
+      "description": "good",
+      "price": "5",
+      "isclicked": false,
+      "quantity": 1
+    },
+    {
+      "id": "771",
+      "image": "https://th.bing.com/th?q=Food+Fruit&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.3&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247",
+      "name": "food 2",
+      "description": "good",
+      "price": "10",
+      "isclicked": false,
+      "quantity": 1
+    },
+    {
+      "id": "282",
+      "image": "https://th.bing.com/th?q=Food+Fruit&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.3&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247",
+      "name": "food3",
+      "description": "fghfg",
+      "price": "10",
+      "isclicked": false,
+      "quantity": 1
+    }
+  ],
+  "userProduct": [
+    {
+      "id": "808",
+      "image": "https://th.bing.com/th/id/OIP.nT0_j2wdtNdnuyFMbgSv5QHaIx?pid=ImgDet&rs=1",
+      "name": "food 1",
+      "description": "good",
+      "price": "5",
+      "isclicked": false,
+      "quantity": 1
+    },
+    {
+      "id": "771",
+      "image": "https://th.bing.com/th?q=Food+Fruit&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.3&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247",
+      "name": "food 2",
+      "description": "good",
+      "price": "10",
+      "isclicked": false,
+      "quantity": 1
+    },
+    {
+      "id": "282",
+      "image": "https://th.bing.com/th?q=Food+Fruit&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.3&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247",
+      "name": "food3",
+      "description": "fghfg",
+      "price": "10",
+      "isclicked": false,
+      "quantity": 1
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "428",
+      "image": "https://th.bing.com/th/id/OIP.XepoQA8xmVHuQEtaux6IaAHaFM?pid=ImgDet&w=2365&h=1660&rs=1",
+      "name": "Virat Kohli",
+      "description": "Awesome Restaurant",
+      "profession": "Cricketer"
+    },
+    {
+      "id": "394",
+      "image": "https://th.bing.com/th/id/OIP.bc-tSjdY-DssheJf8xHA-AHaD3?w=320&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "MS Dhoni",
+      "description": "Ambiance is so good",
+      "profession": "Wicket Keeper"
+    },
+    {
+      "id": "82",
+      "image": "https://th.bing.com/th/id/OIP.a4jYBXBBDR9F56nBj6NvFQHaIC?w=141&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "Saina Nehwal",
+      "description": "Food was Delicious",
+      "profession": "Badminton - player (feminine)"
+    },
+    {
+      "id": "134",
+      "image": "https://th.bing.com/th/id/OIP.OiOnZHMuS_x-YEfZiBDkxgHaFW?w=219&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "name": "ABD Villiars",
+      "description": "Food is affordable",
+      "profession": "South africa batsman"
+    },
+    {
+      "id": "498",
+      "image": "https://th.bing.com/th/id/OIP.nT0_j2wdtNdnuyFMbgSv5QHaIx?pid=ImgDet&rs=1",
+      "name": "parth shinde",
+      "description": "asd",
+      "profession": "asda"
+    },
+    {
+      "id": "871",
+      "image": "https://th.bing.com/th/id/OIP.nT0_j2wdtNdnuyFMbgSv5QHaIx?pid=ImgDet&rs=1",
+      "name": "asdasd",
+      "description": "asd",
+      "profession": "asdasd"
+    }
+  ],
+  "cart": []
+}
